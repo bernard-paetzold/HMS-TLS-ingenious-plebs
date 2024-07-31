@@ -2,7 +2,7 @@
 name: Task template
 about: Template to add task to TODO.
 title: ''
-labels: enhancement
+labels: enhancement, functional-requirement
 assignees: ''
 
 ---
